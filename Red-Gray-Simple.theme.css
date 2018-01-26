@@ -3,7 +3,15 @@
 .devider {
 background-color:rgba(0,0,0,0.3) !important;
 }
+.search-bar {
+	    background-color: rgba(0,0,0,0.3) !important;
+	    border: none;
+	}
 	.container-iksrDt {
+	    background-color: rgba(0,0,0,0.3) !important;
+	    border: none;
+	}
+	.header-1tSljs {
 	    background-color: rgba(0,0,0,0.3) !important;
 	    border: none;
 	}
@@ -18,7 +26,7 @@ background-color:rgba(0,0,0,0.3) !important;
 		border-radius: 0;
 	}
 	.account .btn-deafen, .account .btn-mute, .account .btn-settings {
-	    background-color: rgba(0,0,0,0.7) !important;
+	    background-color: rgba(0,0,0,0.3) !important;
 	    box-shadow: none;
 	    border: none;
 	}
@@ -55,8 +63,8 @@ background-color:rgba(0,0,0,0.3) !important;
     	left: 80px;
 	}
 
-	.titlebar + div {
-    	margin-left: -80px;
+.titlebar + div {
+   	margin-left: -80px;
 	}
 
 .create-guild-container {
