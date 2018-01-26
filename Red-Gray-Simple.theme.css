@@ -1,5 +1,32 @@
 //META{"name":"Red-Gray-Simple","description":"Simple red/gray discord theme","author":"Protocol","version":"1.0"}*//{}
-
+.filename-1XsE3E {
+padding: 20px;
+}
+.icon-19bbE_.webcode-2KLdAe {
+display: none;
+}
+.button.button-primary {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.button {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.uploadModal-2KN6Mm.theme-brand {
+background-color:rgba(0,0,0,0.1) !important;
+}
+.inner-1-09ZV {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.footer-4pOKm8{
+background-color:rgba(0,0,0,0.3) !important;
+}
+.footer-4pOKm8
+.message-group.hide-overflow {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.message-group-blocked-btn {
+background-color:rgba(0,0,0,0.5) !important;
+}
 .devider {
 background-color:rgba(0,0,0,0.3) !important;
 }
