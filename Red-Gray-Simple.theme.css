@@ -1,9 +1,149 @@
 //META{"name":"Red-Gray-Simple","description":"Simple red/gray discord theme","author":"Protocol","version":"1.0"}*//{}
+.iconInactive-WWHQEI.icon-mr9wAc.iconMargin-2Js7V9 {
+background-color:rgba(0,0,0,0.5) !important;
+padding: 5px;
+}
 .filename-1XsE3E {
 padding: 20px;
 }
 .icon-19bbE_.webcode-2KLdAe {
 display: none;
+}
+.iconActive-3K4uxh.icon-mr9wAc.iconMargin-2Js7V9 {
+background-color:rgba(0,0,0,0.3) !important;
+padding: 10px;
+}
+.header {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.header-2Lg0Oe.flex-3B1Tl4.alignCenter-3VxkQP {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.new-messages-bar {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.theme-dark .cardPrimaryEditable-2IQ7-V[style="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218); padding: 10px;"]{
+    border-color: indianred !important;
+}
+.itemSelected-3XxAMf.item-3879bf.selected-eNoxEK {
+background-color:rgba(0,0,0,0.2) !important;
+}
+.header-1-f9X5 {
+background-color:rgba(0,0,0,0.3) !important;
+padding:5px !important;
+}
+.separator-3z7STW .marginTop8-2gOa2N .marginBottom8-1mABJ4 {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.inputDefault-2tiBIA.input-oWyROL {
+color:red !important;
+}
+.ui-tab-bar-header {
+background-color:rgba(0,0,0,0.3) !important;
+padding:5px !important;
+}
+.item-2zi_5J.marginBottom8-1mABJ4.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.cardPrimaryEditable-2IQ7-V.card-3DrRmC {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.checkboxEnabled-4QfryV.checkbox-1KYsPm {
+background-color:red !important;
+}
+.bar-2cFRGz {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.item-2zi_5J.marginBottom8-1mABJ4.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.cardPrimaryEditable-2IQ7-V.card-3DrRmC {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.buttonBrandFilledDefault-2Rs6u5.buttonFilledDefault-AELjWf.buttonDefault-2OLW-v.button-2t3of8.buttonFilled-29g7b5.buttonBrandFilled-3Mv0Ra.mediumGrow-uovsMu {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.buttonPrimaryOutlinedDefault--H0hhk.buttonOutlinedDefault-3FNQnZ.buttonDefault-2OLW-v.button-2t3of8.buttonOutlined-38aLSW.mediumGrow-uovsMu.premium-options-button {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.flex-lFgbSz.flex-3B1Tl4.vertical-3X17r5.flex-3B1Tl4.directionColumn-2h-LPR.justifyCenter-29N31w.alignCenter-3VxkQP.noWrap-v6g9vO.preview-overlay-inner {
+background-color:rgba(0,0,0,0.4) !important;
+}
+.buttonGreenFilledDefault-_lLQaz.buttonFilledDefault-AELjWf.buttonDefault-2OLW-v.button-2t3of8.buttonFilled-29g7b5.buttonGreenFilled-6QHNrw.mediumGrow-uovsMu.premium-options-button {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.switch-3lyafC.themeDefault-3M0dJU {
+  background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+ .valueChecked-3Bzkbm {
+    background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+  }
+-.themeDefault-3M0dJU.valueChecked-3Bzkbm {
+background-color:red;
+}
+.contentSelectedText-3j5CXt.content-2mSKOj {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.h5-3KssQU.title-1pmpPr.size12-1IGJl9.height16-1qXrGy.weightSemiBold-T8sxWH.defaultMarginh5-2UwwFY.marginBottom8-1mABJ4 {
+background-color:rgba(0,0,0,0.2) !important;
+padding:5px !important;
+}
+.h5-3KssQU.title-1pmpPr.size12-1IGJl9.height16-1qXrGy.weightSemiBold-T8sxWH.margin-bottom-4 {
+background-color:rgba(0,0,0,0.2) !important;
+padding:5px !important;
+}
+.h5-3KssQU.title-1pmpPr.size12-1IGJl9.height16-1qXrGy.weightSemiBold-T8sxWH.margin-bottom-8 {
+background-color:rgba(0,0,0,0.2) !important;
+padding:5px !important;
+}
+.h2-2ar_1B.title-1pmpPr.size16-3IvaX_.height20-165WbF.weightSemiBold-T8sxWH.defaultColor-v22dK1.margin-bottom-20 {
+background-color:rgba(0,0,0,0.3) !important;
+padding:5px !important;
+}
+.ui-tab-bar-item.selected {
+background-color:rgba(0,0,0,0.5) !important;
+}
+.barFill-18ABna {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.btn {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.buttonBrandFilledDefault-2Rs6u5.buttonFilledDefault-AELjWf.buttonDefault-2OLW-v.button-2t3of8.buttonFilled-29g7b5.buttonBrandFilled-3Mv0Ra.smallGrow-2_7ZaC.userInfoViewingButton-3o3aim {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.buttonBrandFilledDefault-2Rs6u5.buttonFilledDefault-AELjWf.buttonDefault-2OLW-v.button-2t3of8.buttonFilled-29g7b5.buttonBrandFilled-3Mv0Ra.smallGrow-2_7ZaC {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.h2-2ar_1B.title-1pmpPr.size16-3IvaX_.height20-165WbF.weightSemiBold-T8sxWH.defaultColor-v22dK1.defaultMarginh2-37e5HZ.marginBottom20-2Ifj-2 {
+background-color:rgba(0,0,0,0.3) !important;
+padding:5px !important;
+}
+.authedApp-2JX_oI.marginBottom8-1mABJ4.cardPrimaryOutline-2YyAz2.card-3DrRmC {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+/*.old-h2 {
+background-color:rgba(0,0,0,0.3) !important;
+padding:5px;
+}*/
+.tab-bar-item.tab-bar-item-primary {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
+}
+.friends-table-header {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.tab-bar-item.tab-bar-item-primary.selected {
+background-color:red;
+}
+.messages-popout.scroller {
+background-color:rgba(0,0,0,0.3) !important;
 }
 .button.button-primary {
 background-color:rgba(0,0,0,0.3) !important;
@@ -110,13 +250,11 @@ background-color:rgba(0,0,0,0.3) !important;
 	border:1px solid red !important;
 	background-color:rgba(0,0,0,0.3) !important;
 }
-/*Messages*/
 .message-group {
     background: rgba(0,0,0,0.3) !important;
 	padding: 20px !important;
 	margin-top: 5px;
 }
-/*Message Box*/
 .theme-dark .inner-3if5cm {
     background-color: rgba(0,0,0,0.3);
     border: 1px solid red
@@ -128,7 +266,6 @@ background-color:rgba(0,0,0,0.3) !important;
 .messages.scrollbar {
     background: red !important;
 }
-
 .channel-members,
 .guilds-wrapper {
     background: rgba(0,0,0,0.5) !important;
@@ -166,11 +303,9 @@ background-color:rgba(0,0,0,0.3) !important;
 .container-RYiLUQ {
     background-color:  transparent;
 }
- /* fix not having a background image anymore */
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
   background: transparent !important;
 }
-/* optionally adjust background brightness (0: original image, 1: black) */
 .layers-20RVFW {
   background: rgba(0,0,0, 0.3) !important;
 }
@@ -196,7 +331,6 @@ background-color:rgba(0,0,0,0.3) !important;
 .theme-dark .chat {
     background-color: transparent;
 }
-
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
     background-color: transparent;
 }
