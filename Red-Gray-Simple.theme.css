@@ -1,4 +1,5 @@
 //META{"name":"Red-Gray-Simple","description":"Simple red/gray discord theme","author":"Protocol","version":"0.9"}*//{}
+
 .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
 border-radius: 3px;
 }
@@ -8,6 +9,18 @@ border-radius: 3px;
 .iconInactive-WWHQEI.icon-mr9wAc.iconMargin-2Js7V9 {
 background-color:rgba(0,0,0,0.5) !important;
 padding: 5px;
+}
+.item-rK1j5B {
+	background-color:#1e1e1e !important;
+	}
+.separator-1hpa3S {
+background-color: red !important;
+}
+.menu-3BZuDT {
+background-color:rgba(0,0,0,0.3) !important;
+}
+.container-1WaXoH {
+background-color:rgba(0,0,0,0.3) !important;
 }
 .flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignStart-pnSyE6.noWrap-v6g9vO.wrapperCollapsed-18mf-c.cursorPointer-3oKATS {
 background-color:rgba(0,0,0,0.3) !important;
@@ -54,6 +67,15 @@ background-color:#1e1e1e !important;
 background-color:#1e1e1e !important;
 }
 .flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO.header-3sp3cE.separator-NBIcXB {
+background-color:#1e1e1e !important;
+}
+.contextMenu-uoJTbz.theme-dark {
+background-color:#1e1e1e !important;
+}
+.scrollerWrap-2uBjct.scrollerThemed-19vinI.themeGhostHairline-2H8SiW {
+background-color:#1e1e1e !important;
+}
+.item-1XYaYf.itemSubMenu-3ZgIw- {
 background-color:#1e1e1e !important;
 }
 .edit-operation {
@@ -121,9 +143,21 @@ padding: 5px;
 .protip-12obwm.inline-XIL6yQ {
 display:none !important;
 }
+.guild-inner[style="border-radius: 25px; background-color: rgb(47, 49, 54);"] {
+border-radius: 3px !important;
+}
+.guild-inner,
+.guilds-add,
+.guilds-error,
+.guild-placeholder * {
+	border-radius: 3px!important;
+}
 .avatarStatus-1g8f0K.statusIdle-2AQdvu.status-3jUEha.statusIdleProfile-2QT8cN.statusProfile-29OBzn {
 border-radius: 3px !important;
 }
+.status.status-invisible {
+	border-radius: 3px !important;
+	}
 .statusOffline-jZXr_u.status-3jUEha.statusOfflineProfile-1wnfgz.statusProfile-29OBzn {
 border-radius: 3px !important;
 }
