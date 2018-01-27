@@ -1,36 +1,36 @@
 //META{"name":"Red-Gray-Simple","description":"Simple red/gray discord theme","author":"Protocol","version":"0.9"}*//{}
-	.avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
-		border-radius: 3px;
-	}
-	.avatarHintInner-1JYcVr {
-		border-radius: 3px;
-	}
+.avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
+border-radius: 3px;
+}
+.avatarHintInner-1JYcVr {
+border-radius: 3px;
+}
 .iconInactive-WWHQEI.icon-mr9wAc.iconMargin-2Js7V9 {
 background-color:rgba(0,0,0,0.5) !important;
 padding: 5px;
 }
 .flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignStart-pnSyE6.noWrap-v6g9vO.wrapperCollapsed-18mf-c.cursorPointer-3oKATS {
-	background-color:rgba(0,0,0,0.3) !important;
+background-color:rgba(0,0,0,0.3) !important;
 }
 .iconHoveredCollapsed-jNYgOD.iconTransition-vhWJ85.closed2HeF-I {
-	background-color:rgba(0,0,0,0.3) !important;
+background-color:rgba(0,0,0,0.3) !important;
 }
 .nameHoveredCollapused-2c-EHI.colorTransition-2iZaYd.overflowEllipsis-2ynGQq {
-	background-color:rgba(0,0,0,0.3) !important;
+background-color:rgba(0,0,0,0.3) !important;
 }
 #bd-pub-button {
-	display: none;
+display: none;
 }
 .guild-inner[style="height: 20px; border-radius: 4px;"] {
-	display: none;
+display: none;
 }
 .inputDefault-Y_U37D.input-2YozMi.size16-3IvaX_ {
-	background-color:rgba(0,0,0,0.3) !important;
-	border: 1px solid red;
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
 }
 .friends-online {
-		background-color:rgba(0,0,0,0.2) !important;
-		padding: 1.5px;
+background-color:rgba(0,0,0,0.2) !important;
+padding: 1.5px;
 }
 .filename-1XsE3E {
 padding: 20px;
@@ -41,9 +41,9 @@ display: none;
 .uploadModal-2KN6Mm.theme-brand {
 background-color:#1e1e1e !important;
 }
-	.inner-1-09ZV {
-	background-color:#1e1e1e !important;
-	}
+.inner-1-09ZV {
+background-color:#1e1e1e !important;
+}
 .flex-lFgbSz.flex-3B1Tl4.horizontalReverse-2LanvO.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa.noWrap-v6g9vO.footer-1PYmcw {
 background-color:#1e1e1e !important;
 }
@@ -55,6 +55,9 @@ background-color:#1e1e1e !important;
 }
 .flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO.header-3sp3cE.separator-NBIcXB {
 background-color:#1e1e1e !important;
+}
+.edit-operation {
+color:red !important;
 }
 .separator-1hpa3S {
 background-color:red !important;
@@ -279,13 +282,13 @@ background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
 }
 .switch-3lyafC.themeDefault-3M0dJU {
-  background-color:rgba(0,0,0,0.3) !important;
+background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
 }
  .valueChecked-3Bzkbm {
-    background-color:rgba(0,0,0,0.3) !important;
+background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
-  }
+ }
 .themeDefault-3M0dJU.valueChecked-3Bzkbm {
 background-color:red;
 }
@@ -390,249 +393,237 @@ background-color:rgba(0,0,0,0.5) !important;
 background-color:rgba(0,0,0,0.3) !important;
 }
 .search-bar {
-	    background-color: rgba(0,0,0,0.3) !important;
-	    border: none;
-	}
-	.container-iksrDt {
-	    background-color: rgba(0,0,0,0.3) !important;
-	    border: none;
-	}
-	.header-1tSljs {
-	    background-color: rgba(0,0,0,0.3) !important;
-	    border: none;
-	}
+background-color: rgba(0,0,0,0.3) !important;
+border: none;
+}
+.container-iksrDt {
+background-color: rgba(0,0,0,0.3) !important;
+border: none;
+}
+.header-1tSljs {
+background-color: rgba(0,0,0,0.3) !important;
+border: none;
+}
 
-	.jump-to-present-bar {
-		background-color: rgba(0,0,0,0.3) !important;
-	    border: none;
-	}
-	.account .status {
-		width: 7px;
-		height: 7px;
-		border-radius: 0;
-	}
+.jump-to-present-bar {
+background-color: rgba(0,0,0,0.3) !important;
+border: none;
+}
+.account .status {
+width: 7px;
+height: 7px;
+border-radius: 0;
+}
+.guilds-wrapper .guilds .guild.unread:before {
+border-radius: 0;
+}
+.account .btn-deafen, .account .btn-mute, .account .btn-settings {
+background-color: rgba(0,0,0,0.3) !important;
+box-shadow: none;
+border: none;
+}
 
-	.guilds-wrapper .guilds .guild.unread:before {
-		border-radius: 0;
-	}
-	.account .btn-deafen, .account .btn-mute, .account .btn-settings {
-	    background-color: rgba(0,0,0,0.3) !important;
-	    box-shadow: none;
-	    border: none;
-	}
-
-	.botTagRegular-288-ZL.botTag-1OwMgs {
-		background-color:rgba(0, 0, 0, 0.1) !important;
-		color: red;
-	}
-	.botTagInvert-gorWR_.botTag-1OwMgs.headerBotTag-1I8GCn {
-		background-color:rgba(0, 0, 0, 0.1) !important;
-		color: red;
-	}
-	.iconBadge-1FYlQB {
-		background-color:rgba(0, 0, 0, 0.5) !important;
-		border: 3px solid red;
-	}
-	.badge {
-		background-color:rgba(0, 0, 0, 0.3) !important;
-		color:red;
-	}
-	.roleName-DUQZ9m {
-		padding:1px !important;
-	}
-	.addButtonIcon-3GVNfn {
-		padding:1px !important;
-	}
-	.flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO marginReset-1YolDJ {
-		background-color:#1e1e1e !important;
-	}
-	.status.status-unknown {
-		border-radius: 3px;
-	}
-	.guilds-wrapper .guild-separator:after {
-		background-color:rgba(0,0,0,0.3) !important;
-		margin-top: 0px;
-		margin-left:-20px;
-		margin-right: 0px;
-		width: 80px;
-		height: 4px;
-	}
-
-	.image-EVRGPw maskProfile-MeBve8 mask-2vyqAW {
-		border-radius: 3px !important;
-	}
-	.guild-inner {
-		background-color: transparent !important;
-	}
-
-	.guilds-wrapper .guilds-add {
-		border: 1px solid red;
-		color: red;
-	}
-
-	.guilds-wrapper .guilds-error {
-		border-radius:0;
-		border: 1px solid red;
-		background-color: transparent;
-	}
-
-	.guilds .guild:first-child {
-    	margin-top: -3px;
-	}
-
-	.titlebar {
-    	left: 80px;
-	}
-	.status.status-dnd {
-		border-radius: 3px !important;
-	}
-	.statusDnd-35xAXU.status-3jUEha.statusDndProfile-3KCGdy.statusProfile-29OBzn {
-		border-radius: 3px !important;
-	}
-    .status.status-online {
-		border-radius: 3px !important;
-	}
-	.statusOnline-1Mp2_H.status-3jUEha.statusOnlineProfile-2tnPUH.statusProfile-29OBzn {
-		border-radius: 3px !important;
-	}
-	.status.status-idle {
-		border-radius: 3px !important;
-	}
-	.status.status-offline {
-		border-radius: 3px !important;
-	}
-
+.botTagRegular-288-ZL.botTag-1OwMgs {
+background-color:rgba(0, 0, 0, 0.1) !important;
+color: red;
+}
+.botTagInvert-gorWR_.botTag-1OwMgs.headerBotTag-1I8GCn {
+background-color:rgba(0, 0, 0, 0.1) !important;
+color: red;
+}
+.iconBadge-1FYlQB {
+background-color:rgba(0, 0, 0, 0.5) !important;
+border: 3px solid red;
+}
+.badge {
+background-color:rgba(0, 0, 0, 0.3) !important;
+color:red;
+}
+.roleName-DUQZ9m {
+padding:1px !important;
+}
+.addButtonIcon-3GVNfn {
+padding:1px !important;
+}
+.flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO marginReset-1YolDJ {
+background-color:#1e1e1e !important;
+}
+.status.status-unknown {
+border-radius: 3px;
+}
+.guilds-wrapper .guild-separator:after {
+background-color:rgba(0,0,0,0.3) !important;
+margin-top: 0px;
+margin-left:-20px;
+margin-right: 0px;
+width: 80px;
+height: 4px;
+}
+.image-EVRGPw maskProfile-MeBve8 mask-2vyqAW {
+border-radius: 3px !important;
+}
+.guild-inner {
+background-color: transparent !important;
+}
+.guilds-wrapper .guilds-add {
+border: 1px solid red;
+color: red;
+}
+.guilds-wrapper .guilds-error {
+border-radius:0;
+border: 1px solid red;
+background-color: transparent;
+}
+.guilds .guild:first-child {
+margin-top: -3px;
+}
+.titlebar {
+left: 80px;
+}
+.status.status-dnd {
+border-radius: 3px !important;
+}
+.statusDnd-35xAXU.status-3jUEha.statusDndProfile-3KCGdy.statusProfile-29OBzn {
+border-radius: 3px !important;
+}
+.status.status-online {
+border-radius: 3px !important;
+}
+.statusOnline-1Mp2_H.status-3jUEha.statusOnlineProfile-2tnPUH.statusProfile-29OBzn {
+border-radius: 3px !important;
+}
+.status.status-idle {
+border-radius: 3px !important;
+}
+.status.status-offline {
+border-radius: 3px !important;
+}
 .titlebar + div {
-   	margin-left: -80px;
-	}
-
+margin-left: -80px;
+}
 .create-guild-container {
-	background: rgba(0,0,0,0.3);
+background: rgba(0,0,0,0.3);
 }
-
 .create-guild-container .action {
-	background: rgba(0,0,0,0.3);
+background: rgba(0,0,0,0.3);
 }
-
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-	border:1px solid red !important;
+border:1px solid red !important;
 }
-
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-	border:1px solid red !important;
-	background-color:rgba(0,0,0,0.5) !important;
+border:1px solid red !important;
+background-color:rgba(0,0,0,0.5) !important;
 }
 .message-group {
-    background: rgba(0,0,0,0.3) !important;
-	padding: 20px !important;
-	margin-top: 5px;
+background: rgba(0,0,0,0.3) !important;
+padding: 20px !important;
+margin-top: 5px;
 }
 .theme-dark .inner-3if5cm {
-    background-color: rgba(0,0,0,0.3);
-    border: 1px solid red
+background-color: rgba(0,0,0,0.3);
+border: 1px solid red
 }
 .titleText-2IfpkV {
-    background: rgba(0,0,0,0.3) !important;
-	padding: 5px !important;
+background: rgba(0,0,0,0.3) !important;
+padding: 5px !important;
 }
 .messages.scrollbar {
-    background: red !important;
+background: red !important;
 }
 .channel-members,
 .guilds-wrapper {
-    background: rgba(0,0,0,0.5) !important;
-}
+background: rgba(0,0,0,0.5) !important;
 }
 .account {
-    height: 50px;
-    background: rgba(0,0,0,0.5) !important;
-    border-top: none
+height: 50px;
+background: rgba(0,0,0,0.5) !important;
+border-top: none
 }
 .account .account-details {
-    padding: 0 7px
+padding: 0 7px
 }
 .account .account-details .username {
-    max-width: 85px
+max-width: 85px
 }
 .account .btn {
-    width: 28px;
-   background: rgba(0,0,0,0.5) !important;
+width: 28px;
+background: rgba(0,0,0,0.5) !important;
 }
 .account .btn-group {
-    border: none
+border: none
 }
 .account .btn-deafen,
 .account .btn-mute {
-    border-right: none
+border-right: none
 }
 .account .btn-deafen,
 .account .btn-settings {
-    box-shadow: none
+box-shadow: none
 }
 .channels-3g2vYe {
-    background-color: rgba(0,0,0,0.3);
+background-color: rgba(0,0,0,0.3);
 }
 .container-RYiLUQ {
-    background-color:  transparent;
+background-color:  transparent;
 }
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
+background: transparent !important;
 }
 .layers-20RVFW {
-  background: rgba(0,0,0, 0.3) !important;
+background: rgba(0,0,0, 0.3) !important;
 }
 .container-2OU7Cz {
-    background-color:  rgba(0,0,0,0);
+background-color:  rgba(0,0,0,0);
 }
 .theme-dark .layer, .theme-dark .layers {
-    background: transparent;
+background: transparent;
 }
 .guilds-wrapper {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .chat form .typing {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .chat form {
-    background-color: transparent;
-    box-shadow: none;
+background-color: transparent;
+box-shadow: none;
 }
 .theme-dark .chat>.content {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .chat {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .channel-members {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .title-qAcLxz {
-    background: transparent;
-    box-shadow: none;
+background: transparent;
+box-shadow: none;
 }
 .theme-dark #friends {
-    background-color: transparent;
+background-color: transparent;
 }
 .theme-dark .headerBar-cxbhPD {
-    background: transparent;
+background: transparent;
 }
 .theme-dark .ui-standard-sidebar-view .content-region {
-    background: transparent;
+background: transparent;
 }
 .theme-dark .ui-standard-sidebar-view .sidebar-region {
-    background: transparent;
+background: transparent;
 }
 .theme-dark .ui-standard-sidebar-view {
-    background: transparent;
+background: transparent;
 }
 .app,
 .callout-backdrop,
 .bda-backdrop,
 #pubs-container:before {
-	background-image: url("http://sf.co.ua/16/08/wallpaper-3a762.jpg");
-	background-size: cover !important;
-	background-position: center !important;
+background-image: url("http://sf.co.ua/16/08/wallpaper-3a762.jpg");
+background-size: cover !important;
+background-position: center !important;
 }
