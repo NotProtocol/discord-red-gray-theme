@@ -24,6 +24,10 @@ padding: 5px;
 .guild-inner[style="height: 20px; border-radius: 4px;"] {
 	display: none;
 }
+.inputDefault-Y_U37D.input-2YozMi.size16-3IvaX_ {
+	background-color:rgba(0,0,0,0.3) !important;
+	border: 1px solid red;
+}
 .friends-online {
 		background-color:rgba(0,0,0,0.2) !important;
 		padding: 1.5px;
@@ -34,9 +38,12 @@ padding: 20px;
 .icon-19bbE_.webcode-2KLdAe {
 display: none;
 }
-.item-rK1j5B {
+.uploadModal-2KN6Mm.theme-brand {
 background-color:#1e1e1e !important;
 }
+	.inner-1-09ZV {
+	background-color:#1e1e1e !important;
+	}
 .flex-lFgbSz.flex-3B1Tl4.horizontalReverse-2LanvO.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa.noWrap-v6g9vO.footer-1PYmcw {
 background-color:#1e1e1e !important;
 }
@@ -134,7 +141,7 @@ background-color:rgba(0,0,0,0.3) !important;
 padding: 5px;
 }
 .scroller-fzNley.scroller-NXV0-d {
-background-color:rgba(0,0,0,0.2) !important;
+background-color:rgba(0,0,0,0.1) !important;
 }
 .header {
 background-color:rgba(0,0,0,0.5) !important;
@@ -147,6 +154,10 @@ border: 1px solid red;
 background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
 }
+.buttonRedFilledDefault-1TrZ9q.buttonFilledDefault-AELjWf.buttonDefault-2OLW-v.button-2t3of8.buttonFilled-29g7b5.buttonRedFilled-1NjJNj.mediumGrow-uovsMu {
+	background-color:rgba(0,0,0,0.3) !important;
+	border: 1px solid red;
+	}
 .bd-pfbtn {
 background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
@@ -275,7 +286,7 @@ border: 1px solid red;
     background-color:rgba(0,0,0,0.3) !important;
 border: 1px solid red;
   }
--.themeDefault-3M0dJU.valueChecked-3Bzkbm {
+.themeDefault-3M0dJU.valueChecked-3Bzkbm {
 background-color:red;
 }
 .contentSelectedText-3j5CXt.content-2mSKOj {
@@ -354,6 +365,7 @@ background-color:rgba(0,0,0,0.3) !important;
 }
 .button.button-primary {
 background-color:rgba(0,0,0,0.3) !important;
+color: red !important;
 }
 .button {
 background-color:rgba(0,0,0,0.3) !important;
@@ -412,6 +424,30 @@ background-color:rgba(0,0,0,0.3) !important;
 	.botTagRegular-288-ZL.botTag-1OwMgs {
 		background-color:rgba(0, 0, 0, 0.1) !important;
 		color: red;
+	}
+	.botTagInvert-gorWR_.botTag-1OwMgs.headerBotTag-1I8GCn {
+		background-color:rgba(0, 0, 0, 0.1) !important;
+		color: red;
+	}
+	.iconBadge-1FYlQB {
+		background-color:rgba(0, 0, 0, 0.5) !important;
+		border: 3px solid red;
+	}
+	.badge {
+		background-color:rgba(0, 0, 0, 0.3) !important;
+		color:red;
+	}
+	.roleName-DUQZ9m {
+		padding:1px !important;
+	}
+	.addButtonIcon-3GVNfn {
+		padding:1px !important;
+	}
+	.flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO marginReset-1YolDJ {
+		background-color:#1e1e1e !important;
+	}
+	.status.status-unknown {
+		border-radius: 3px;
 	}
 	.guilds-wrapper .guild-separator:after {
 		background-color:rgba(0,0,0,0.3) !important;
