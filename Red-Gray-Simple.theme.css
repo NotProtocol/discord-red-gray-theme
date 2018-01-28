@@ -46,8 +46,12 @@ background-color:#1e1e1e !important;
 border: 1px solid red;
 }
 .scrollbarGhost-K_3Xa9.scrollbar-11WJwo.hljs.html {
-background-color:#3a3a3a !important;
+background-color:#1e1e1e !important;
 border: 1px solid red;
+}
+.inline {
+background-color: #252525 !important;
+border: 0.5px solid red;
 }
 .scrollbarGhost-K_3Xa9.scrollbar-11WJwo.hljs.CSS {
 background-color:#1e1e1e !important;
