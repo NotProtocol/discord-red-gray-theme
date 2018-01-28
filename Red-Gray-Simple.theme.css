@@ -11,8 +11,26 @@ background-color:rgba(0,0,0,0.5) !important;
 padding: 5px;
 }
 .item-rK1j5B {
-	background-color:#1e1e1e !important;
-	}
+background-color:#1e1e1e !important;
+}
+.scrollbarGhost-K_3Xa9.scrollbar-11WJwo.hljs.css {
+background-color:#1e1e1e !important;
+border: 1px solid red;
+}
+.scrollbarGhost-K_3Xa9.scrollbar-11WJwo.hljs.CSS {
+background-color:#1e1e1e !important;
+border: 1px solid red;
+}
+.theme-dark .autocomplete-1TnWNR {
+background-color: rgba(0,0,0,0.5) !important;
+}
+.theme-dark .selectorSelected-2M0IGv {
+background-color: rgba(0,0,0,0.5) !important;
+}
+.uploadModal-2KN6Mm .inner-1-09ZV {
+border: 2px dashed red;
+color: #fff;
+}
 .separator-1hpa3S {
 background-color: red !important;
 }
@@ -64,7 +82,7 @@ background-color:#1e1e1e !important;
 background-color:#1e1e1e !important;
 }
 .scroller-fzNley.inner-tqJwAU {
-background-color:#1e1e1e !important;
+background-color:#1e1e1e;
 }
 .flex-lFgbSz.flex-3B1Tl4.horizontal-2BEEBe.horizontal-2VE-Fw.flex-3B1Tl4.directionRow-yNbSvJ.justifyStart-2yIZo0.alignCenter-3VxkQP.noWrap-v6g9vO.header-3sp3cE.separator-NBIcXB {
 background-color:#1e1e1e !important;
@@ -72,8 +90,12 @@ background-color:#1e1e1e !important;
 .contextMenu-uoJTbz.theme-dark {
 background-color:#1e1e1e !important;
 }
-.scrollerWrap-2uBjct.scrollerThemed-19vinI.themeGhostHairline-2H8SiW {
-background-color:#1e1e1e !important;
+/*.scrollerWrap-2uBjct.scrollerThemed-19vinI.themeGhostHairline-2H8SiW {
+background-color:#1e1e1e;
+}*/
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+background-color:rgba(0,0,0,0.3) !important;
+border: 1px solid red;
 }
 .item-1XYaYf.itemSubMenu-3ZgIw- {
 background-color:#1e1e1e !important;
@@ -130,7 +152,7 @@ display:none !important;
 background-color:#2B2B2B !important;
 }
 .scroller-fzNley[class="userInfoSection-2WJxMm"] {
-background-color:#2B2B2B !important;
+background-color:#2B2B2B;
 }
 .footer-2J5zqP {
 display: none;
@@ -178,7 +200,7 @@ background-color:rgba(0,0,0,0.3) !important;
 padding: 5px;
 }
 .scroller-fzNley.scroller-NXV0-d {
-background-color:rgba(0,0,0,0.1) !important;
+background-color:rgba(0,0,0,0.1);
 }
 .header {
 background-color:rgba(0,0,0,0.5) !important;
